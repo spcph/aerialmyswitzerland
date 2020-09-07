@@ -1,0 +1,10 @@
+{
+    "name": "MySwitzerland - Dream now, travle later",
+    "description": "Highlights from Switzerland",
+    "scenes": [
+      "landscape"
+    ],
+    "manifestUrl": "https://link/to/your/entries.json",
+    "local": false,
+    "cacheable": true
+}
