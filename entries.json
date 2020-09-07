@@ -3,8 +3,10 @@
     {
       "accessibilityLabel" : "MySwitzerland - Dream now, travel later",
       "title": "MySwitzerland - Dream now, travel later",
+      "timeOfDay" : "day",
+      "scene" : "landscape",
       "id" : "EADB4B0B-00B1-424B-90F6-4026C7873AD3",
-      "url-1080-HDR" : "https://calendar.myswitzerland.com/20190321/month/05_mai_1920x1080.mp4",
+      "url-1080-H264" : "https://calendar.myswitzerland.com/20190321/month/05_mai_1920x1080.mp4",
       "pointsOfInterest" : {
         "360" : "Creux du Van – Natural Spectacle - Noiraigue",
         "465" : "Patinoire du Flon - Lausanne",
@@ -54,8 +56,7 @@
         "510" : "Panorama view - Fronalpstock",
         "690" : "Emmentaler AOP",
         "615" : "Crans-Montana"
-      },
-      "timeOfDay" : "day"
+      }
     }
   ]
 }

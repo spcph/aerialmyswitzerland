@@ -5,6 +5,8 @@
       "landscape"
     ],
     "manifestUrl": "https://raw.githubusercontent.com/spcph/aerialmyswitzerland/master/entries.json",
+    "license": "",
+    "more" : "",
     "local": false,
     "cacheable": true
 }
