@@ -4,7 +4,7 @@
     "scenes": [
       "landscape"
     ],
-    "manifestUrl": "https://link/to/your/entries.json",
+    "manifestUrl": "https://raw.githubusercontent.com/spcph/aerialmyswitzerland/master/entries.json",
     "local": false,
     "cacheable": true
 }
